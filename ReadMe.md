@@ -80,12 +80,6 @@ I build systems where being wrong is expensive — financial ledgers, clinical r
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Mo-Adeeb-Alkahat?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/Mo-Adeeb-Alkahat?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=181717" alt="GitHub stars">
-  <img src="https://img.shields.io/npm/v/openapi-ai?style=flat-square&logo=npm&label=openapi-ai&color=CB3837" alt="openapi-ai on npm">
-  <img src="https://img.shields.io/npm/v/latest-react-3d-icons?style=flat-square&logo=npm&label=latest-react-3d-icons&color=CB3837" alt="latest-react-3d-icons on npm">
-</p>
 
 <p align="center">
   <i>Open to remote full-stack, applied-AI and backend roles.</i>
