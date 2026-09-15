@@ -62,8 +62,8 @@ I build systems where being wrong is expensive — financial ledgers, clinical r
 
 | Project | What it is | |
 |---|---|---|
-| **openapi-ai** | npm CLI that generates React form components from an OpenAPI 3 schema using an LLM. I contributed the LangChain integration that made it model-agnostic, and the Gemini prompt engineering that became the default. *(co-authored)* | [npm](https://www.npmjs.com/package/openapi-ai) |
-| **latest-react-3d-icons** | Published React package rendering SVGs as 3D icons with Three.js — a modernised rebuild of an unmaintained library. | [npm](https://www.npmjs.com/package/latest-react-3d-icons) · [code](https://github.com/Mo-Adeeb-Alkahat/latest-react-3d-icons) |
+| **openapi-ai** | npm CLI that generates React form components from an OpenAPI 3 schema using an LLM. I contributed the LangChain integration that made it model-agnostic, and the Gemini prompt engineering that became the default. *(co-authored)* | [![npm](https://img.shields.io/npm/v/openapi-ai?style=flat-square&logo=npm&label=)](https://www.npmjs.com/package/openapi-ai) |
+| **latest-react-3d-icons** | Published React package rendering SVGs as 3D icons with Three.js — a modernised rebuild of an unmaintained library. | [![npm](https://img.shields.io/npm/v/latest-react-3d-icons?style=flat-square&logo=npm&label=)](https://www.npmjs.com/package/latest-react-3d-icons) · [code](https://github.com/Mo-Adeeb-Alkahat/latest-react-3d-icons) |
 | **Wasef** | Arabic image-caption generator trained from scratch on Arabic Flickr8k — CNN/RNN/LSTM with React + Flask. BLEU-1 0.42. | [code](https://github.com/Mo-Adeeb-Alkahat/Wasef) |
 | **Face Detector** | Full-stack face detection with React, Node.js, PostgreSQL and the Clarifai API. | [code](https://github.com/Mo-Adeeb-Alkahat/face-detector) |
 | **GPU Comparer** | Full-stack GPU comparison app (React, Spring Boot, MySQL) handling 1,000+ entries. | [code](https://github.com/Mo-Adeeb-Alkahat/gpu-compare) |
@@ -81,8 +81,10 @@ I build systems where being wrong is expensive — financial ledgers, clinical r
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Adeeb-Alkahat&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Adeeb-Alkahat&layout=compact&hide_border=true&theme=default" alt="Top languages" height="150">
+  <img src="https://img.shields.io/github/followers/Mo-Adeeb-Alkahat?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Mo-Adeeb-Alkahat?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=181717" alt="GitHub stars">
+  <img src="https://img.shields.io/npm/v/openapi-ai?style=flat-square&logo=npm&label=openapi-ai&color=CB3837" alt="openapi-ai on npm">
+  <img src="https://img.shields.io/npm/v/latest-react-3d-icons?style=flat-square&logo=npm&label=latest-react-3d-icons&color=CB3837" alt="latest-react-3d-icons on npm">
 </p>
 
 <p align="center">
